@@ -1,9 +1,11 @@
-# About me 👋
+# About me 🇧🇷
 
-Hi, my name is Robson and I’m currently learning programming on a Data Science college degree here in Brazil. 🙂
+Hi, my name is Robson and I’m currently learning programming on a Data Science college degree online here in Brazil.
 
-My institution is named Univesp and is located in the state of São Paulo, although I live in Rio de Janeiro, another Brasil state. 
+My institution - Univesp -  is located on the state of São Paulo, but I live in Rio de Janeiro, another Brazil state. That's possible since the classes are taken online.
 
 I intend on using GitHub initially as a place to post code experiments and solutions to problems I will encounter through my course. Later on, I hope collaborating with others to solve complex problems...
 
 📞 Want to talk? Reach me through my social networks.
+
+Thanks for reading 🙂
